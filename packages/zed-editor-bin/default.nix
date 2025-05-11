@@ -18,7 +18,7 @@
   testers,
   lib,
 }: let
-  version = "0.185.14";
+  version = "0.185.15";
 
   # Map from Nix system → { url, sha256, type }
   assets = {
